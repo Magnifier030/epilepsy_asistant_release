@@ -43805,7 +43805,7 @@ A.lH.prototype={
 yl(){var s=0,r=A.F(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e
 var $async$yl=A.A(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
-n=A.eV("https://sunfish-integral-regularly.ngrok-free.app/get_videos")
+n=A.eV("https://sunfish-integral-regularly.ngrok-free.app/get_videos/")
 g=t.N
 m=A.aa(["ngrok-skip-browser-warning","69420"],g,g)
 A.dJ("Request URL: "+A.j(n))
