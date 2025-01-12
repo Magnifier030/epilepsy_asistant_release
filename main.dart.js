@@ -43995,7 +43995,7 @@ n===$&&A.a()
 s=r.d
 n=n[s]
 return A.h4(p,q,n,new A.yE(B.Ki,new A.aqP(r),s,B.Mk,B.kn,q),o)},
-a98(a){var s="\u7672\u7647\u5c45\u5bb6\u7167\u8b77\u5c0f\u52a9\u7406APP"
+a98(a){var s="\u7672\u7647\u5c45\u5bb6\u7167\u8b77\u5c0f\u52a9\u7406"
 switch(a){case 0:return s
 case 1:return s
 case 2:return s
