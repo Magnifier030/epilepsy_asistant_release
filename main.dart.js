@@ -43781,7 +43781,7 @@ A.LY.prototype={
 G(a){var s,r=null,q=t.o5
 q=A.b([A.aDq(new A.a6s(),t.IA),A.aDq(new A.a6t(),q),A.aO3(new A.a6u(),new A.a6v(),q,t.Nl)],t.Pl)
 s=A.wc(r,r,B.cZ,r)
-return A.aR3(new A.Bh(A.aa(["splash",new A.a6w(),"login",new A.a6x(),"home",new A.a6y(),"register",new A.a6z(),"browseHistory",new A.a6A(),"/medicine",new A.a6B(),"/history",new A.a6C()],t.N,t.Ab),"home","\u7672\u7647\u5c45\u5bb6\u7167\u8b77\u5c0f\u52a9\u7406APP",s,!1,r),q)}}
+return A.aR3(new A.Bh(A.aa(["splash",new A.a6w(),"login",new A.a6x(),"home",new A.a6y(),"register",new A.a6z(),"browseHistory",new A.a6A(),"/medicine",new A.a6B(),"/history",new A.a6C()],t.N,t.Ab),"home","\u7672\u7647\u5c45\u5bb6\u7167\u8b77\u5c0f\u52a9\u7406",s,!1,r),q)}}
 A.a6s.prototype={
 $1(a){return new A.qE(A.w(t.N,t.xW),$.ap())},
 $S:353}
